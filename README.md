@@ -1,4 +1,4 @@
-# gbc
+# Taj Royer-Chacha | 101336372
 
 ## Links
 - [comp1238](comp1238.md)
