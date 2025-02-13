@@ -1,7 +1,6 @@
 # Taj Royer-Chacha | 101336372
 
-## Links
-- [comp1238](comp1238.md)
+## Speed Dail Links
 - [D2L](https://learn.georgebrown.ca)
 - [gblearn server](https://w5336372.gblearn.com/)
 - [my.gblearn](https://my.gblearn.com/)
@@ -20,3 +19,6 @@
   - 13:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/334969)
 - **Friday**
   - 12:00 - [COMP1151 - Info Tech](https://learn.georgebrown.ca/d2l/home/335096)
+
+## Notes
+- [comp1238](comp1238.md)
