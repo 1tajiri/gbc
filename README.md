@@ -24,3 +24,5 @@
 
 ## Notes
 - [comp1238](comp1238.md)
+- [comp1234](comp1234.md)
+- [comp1151](comp1151.md)
