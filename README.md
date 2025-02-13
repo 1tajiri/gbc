@@ -1,11 +1,11 @@
 # notes repo 
 
 ## Taj Royer-Chacha | 101336372
+- [gblearn server](https://w5336372.gblearn.com/)
+- [my.gblearn](https://my.gblearn.com/)
 
 ## Speed Dail Links
 - [D2L](https://learn.georgebrown.ca)
-- [gblearn server](https://w5336372.gblearn.com/)
-- [my.gblearn](https://my.gblearn.com/)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
