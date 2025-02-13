@@ -1,4 +1,6 @@
-# Taj Royer-Chacha | 101336372
+# notes repo 
+
+## Taj Royer-Chacha | 101336372
 
 ## Speed Dail Links
 - [D2L](https://learn.georgebrown.ca)
