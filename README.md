@@ -1,4 +1,4 @@
-# notes repo 
+# My GBC Wiki
 
 ## Taj Royer-Chacha | 101336372
 - [gblearn server](https://w5336372.gblearn.com/)
